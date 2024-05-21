@@ -1,4 +1,5 @@
 body {
+    background-color: #FFC49B 
 h1{
   color: #ADB6C4;
   font-size: 60px;
@@ -8,9 +9,6 @@ h1{
   
 }
 
-body {
-  background-color: #FFC49B 
-}
     
     
 nav {
