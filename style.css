@@ -4,11 +4,14 @@ h1{
   color: #ADB6C4;
   font-size: 60px;
     text-align: center;
-  
+  p.double {outline-style: double;}
   color: #ADB6C4;
   
 }
-p.double {outline-style: double;}
+
+body {
+  background-color: #FFC49B 
+}
     
     
 nav {
@@ -24,8 +27,18 @@ nav {
 li{
   display: inline;
   padding: 192px;
-}
+  
+  a {
+    text-decoration: none;
+    color: ivory;
     
+    
+  }
+  a:hover {
+    background-color: black;
+  }
+  
+}
     
     
     
